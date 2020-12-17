@@ -12,3 +12,8 @@ Doc PHP: https://www.php.net/
 Doc String Functions: https://www.php.net/manual/en/ref.strings.php
 Lasciatemi rinnovare il mio benvenuto nel mondo Back-end e PHP
 Buon lavoro ancora e a domani 
+
+
+
+!! ATTENZIONE !!
+per eventuali modifiche, ricordati di inserire il file con estensione .php nella cartella MAP/htdocs

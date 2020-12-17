@@ -22,11 +22,7 @@
     
     <!-- 1-Creare una variabile con assegnato un testo per popolare un paragrafo. -->
     <?php
-        $testoParagrafo = " Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-        Omnis, inventore voluptatibus? Saepe quisquam sit maxime at non debitis. 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit, 
-        laborum eius obcaecati ex veritatis ipsam nisi quo?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit.";
+        $testoParagrafo = " pppppppppppppppppppppppppppppppppppppppppppppppppppppproooova";
     ?>
 
     <!-- 2- Visualizzare a schermo il paragrafo. -->
